@@ -3,9 +3,12 @@
 My time series final project is based on monthly robberies that occurred in Boston during the
 years of 1966 to 1975 and being able to forecast the number of robberies from June to October.
 The main questions I wanted to address from this data set that would help me forecast were:
+
+
   -Can I create a time series model that could accurately model this behavior?
-  -Can my model forecast a close estimate of the amount of robberies that would occur in
-the next five months?
+  -Can my model forecast a close estimate of the amount of robberies that would occur in the next five months?
+
+
 Therefore, in order to conduct this model, I implemented the necessary steps to build my time
 series model. In order to come up with this time series model, I obtained the data set and
 removed the last five months to see if my model was valid. I then observed three different
