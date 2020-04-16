@@ -5,8 +5,10 @@ years of 1966 to 1975 and being able to forecast the number of robberies from Ju
 The main questions I wanted to address from this data set that would help me forecast were:
 
 
-  -Can I create a time series model that could accurately model this behavior?
-  -Can my model forecast a close estimate of the amount of robberies that would occur in the next five months?
+  1) Can I create a time series model that could accurately model this behavior?
+  
+  
+  2) Can my model forecast a close estimate of the amount of robberies that would occur in the next five months?
 
 
 Therefore, in order to conduct this model, I implemented the necessary steps to build my time
